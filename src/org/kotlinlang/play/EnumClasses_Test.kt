@@ -27,5 +27,6 @@ fun main() {
     println(red)
     println(red.containsRed())
     println(Color.BLUE.containsRed())
+    println(Color.GREEN.containsRed())
 
 }
