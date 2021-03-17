@@ -1,3 +1,5 @@
+package org.kotlinlang.play
+
 fun main() {
 
     // 1. class
